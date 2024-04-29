@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reful4ent
-- 👀 I’m interested in front-end))
-- 🌱 Currently I know C# and learning JS, React.
+- 👀 I’m interested in back-front-end)))0)
+- 🌱 Currently I know C# and learning: ASP.NET MVC, JS, React.
 - 📫 How to reach me Telegram: (https://t.me/Rfflgnt), Gmail: dima2323fr3@gmail.com 
 
 <!---
