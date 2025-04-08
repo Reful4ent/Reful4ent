@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reful4ent
 - 👀 I’m interested in back-front-end)))0)
-- 🌱 Currently I know JS, React, TS, Strapi API, Refine.JS, Express.JS, C#
+- 🌱 Currently I know JS, React, TS, Strapi API, Refine.JS, Express.JS, C#, WPF
 - 📫 How to reach me Telegram: (https://t.me/Rfflgnt), Gmail: dima2323fr3@gmail.com 
 
 <!---
